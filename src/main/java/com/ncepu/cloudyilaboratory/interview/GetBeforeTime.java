@@ -1,4 +1,4 @@
-package com.ncepu.cloudyilaboratory.leetcode;
+package com.ncepu.cloudyilaboratory.interview;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -72,7 +72,4 @@ public class GetBeforeTime {
         DateFormat format = new SimpleDateFormat();
         System.out.println(format.format(date));
     }
-
-
-
 }

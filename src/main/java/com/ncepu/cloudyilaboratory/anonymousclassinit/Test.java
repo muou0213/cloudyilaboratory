@@ -1,5 +1,8 @@
 package com.ncepu.cloudyilaboratory.anonymousclassinit;
 
+import java.util.Collections;
+import java.util.List;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
